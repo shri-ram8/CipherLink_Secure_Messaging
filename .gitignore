@@ -1,0 +1,13 @@
+# Secrets
+.env
+firebase-service-account.json
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
